@@ -1,0 +1,139 @@
+body{
+	font-family: Arial, sans-serif;
+}
+nav{
+	width: 100%;
+	height: 60px;
+	background: #344051;
+}
+.logo{
+	color: #fff;
+	font-size: 28px;
+	line-height: 75px;
+	padding-left: 100px;
+	float: left;
+}
+.menu{
+	float: left;
+	padding-left: 342px;
+}
+.menu li{
+
+float: left; 
+line-height: 75px;
+color: #fff;
+margin-right: 35px;
+font-size: 13px; 
+text-transform: uppercase;
+}
+.main{
+	width: 100%;
+	height: calc(100% - 60px);
+	background: url(../парень.png) 90% 100%/auto 85% no-repeat  , url(../фон.png) center/cover no-repeat;
+}
+.title_container{
+	float: left;
+	margin: 270px 0px 0px 260px;
+	color: #2c384a;
+	text-align: center;
+}
+.title_container h1{
+	font-size: 40px;
+	font-weight: bold;
+}
+.title_container h4{
+	margin-top: 30px;
+	font-size: 19px;
+	color: #79818d;
+
+}
+.title_container input{
+	height: 40px;
+	text-align: center;
+	border: 2px solid #6d7682;
+	background: none;
+	border-radius: 5px;
+	color: #6d7682;
+	font-size: 13px;
+	padding: 0px 16px;
+	margin: 30px 14px 0px 14px;
+}
+.inform h2{
+	padding: 50px 5px 5px 5px;
+	font-size: 27px;
+	color: #263244;
+	text-align:center;}
+img.cherta{
+	margin: auto;
+	display: block;
+	padding: 20px 5px 20px 5px;
+}
+img.fotochel {
+	padding: 30px;
+	margin: auto;
+
+	display: block;
+}
+.inform p{
+	
+	max-width: 750px;
+    display: inline-block;
+	text-shadow: center;
+	font-size: 14px;
+	color: #3f495a;
+	
+}
+img.fonovay {
+	padding: 20px 5px 20px 5px;
+	margin: auto;
+
+}
+
+.inform input { 
+height: 45px;
+	text-align: center;
+	border: 2px solid #6d7682;
+	background: url(../иконка.png) left no-repeat;
+	border-radius: 5px;
+	color: #6d7682;
+	font-size: 13px;
+	padding: 0px 5px;
+	margin: 5px 14px 0px 5px;
+}
+
+.inform2 h2{
+	padding: 50px 5px 5px 5px;
+	font-size: 27px;
+	color: #263244;
+	text-align:center;}
+img.cherta2{
+	margin: auto;
+	display: block;
+	padding: 20px 5px 20px 5px;}
+.inform2{
+	background: url(../фоновая.png) center/cover no-repeat;  
+		margin: auto;
+		display: block;
+	}
+
+.veb h4{
+	padding: 50px 0px 5px 0px;
+	text-indent: 230px;
+	font-size: 16px;
+	color: #cf7600;
+	display: inline-block;
+}
+img.veb{
+margin: auto;
+padding: 20px 5px 5px 5px;
+	display:block;
+}
+.veb{
+	
+	text-indent: 230px;
+	font-size: 12px;
+	display: inline-block;
+}
+
+
+
